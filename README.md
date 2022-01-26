@@ -17,3 +17,6 @@ This task is based on a dataset (Food Balance Sheet) from FAO (the Food and Agri
 - Y2016: Year 2016
 - Y2017: Year 2017
 - Y2018: Year 2018
+
+## Tech Stack
+- Pandas🐼
